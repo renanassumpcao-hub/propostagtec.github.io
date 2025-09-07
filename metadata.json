@@ -1,0 +1,5 @@
+{
+  "name": "Unified Proposal Generator",
+  "description": "A dynamic web application to generate customized business, residential, rural, and renter proposals for solar energy solutions. Users can select a proposal type, input client data, and instantly see a visually appealing, calculated proposal ready for printing.",
+  "requestFramePermissions": []
+}
